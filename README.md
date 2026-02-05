@@ -8,6 +8,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Work
+- 넷매니아(주) (2020.09 ~ 2021. 12)
+  
 ## Activity
 - MARS - KES 2025 (한국전자전) 대학생관 부스 운영</h2> | 코엑스 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
 
