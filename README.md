@@ -1,6 +1,5 @@
 # OH TAE GWAN 😉
-## 👨🏻‍💻 Skills
-### Platforms & Languages
+### 👨🏻‍💻 Skills (Platforms & Languages)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
