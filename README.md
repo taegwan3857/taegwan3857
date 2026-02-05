@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Activity
-### MARS - KES 2025 (한국전자전) 대학생관 부스 운영 | 코엑스 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
+- MARS - KES 2025 (한국전자전) 대학생관 부스 운영 | 코엑스 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
 
 ## Competition
-### MindSpace - 2025 동양미래EXPO | 2025.06 ~ 2025.10 | Backend | 🏆 장려상 (KES 2025 한국전자전 출품작)
+- MindSpace - 2025 동양미래EXPO | 2025.06 ~ 2025.10 | Backend | 🏆 장려상 (KES 2025 한국전자전 출품작)
