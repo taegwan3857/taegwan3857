@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💼 Work
-- <a href="http://www.netmania.co.kr/">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
+- <a href="http://www.sendbill.co.kr/">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
   
 ## 👨🏻‍💻 Activity
 - MARS - KES 2025 (한국전자전) 코엑스 대학생관 부스 운영</h2> | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
