@@ -1,23 +1,29 @@
-# Hi, I'm Tae Gwan 😉
-## 💪 Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 👋 Hello, I'm Taekwan Oh
 
-## 💼 Work
-- <a href="http://www.netmania.co.kr/">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
-  
-## 👨🏻‍💻 Activity
-- MARS - KES 2025 (한국전자전) 대학생관 부스 운영</h2> | 코엑스 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
+### 🛠 Tech Stack
+**Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-## 🏆 Competition 
-- MindSpace - 2025 동양미래EXPO | 2025.06 ~ 2025.10 | Frontend | 🏆 장려상 (KES 2025 한국전자전 출품작)
+**Web & Database**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-## ✓ Certification
-- 정보기기운용기능사 (2021. 07)
-- 정보처리기능사 (2021. 07)
-- 정보처리산업기사 (2021. 09)
+---
+
+### 💼 Experience & Activity
+*   **넷매니아(주)** | 인턴/사원 | *2020.09 - 2021.12*
+*   **MARS (KES 2025)** | 한국전자전 대학생관 부스 운영 | *2025.10*
+    *   교내 경진대회 수상작 'MindSpace' 전시 및 시연
+
+### 🏆 Honors & Awards
+*   **장려상** | 2025 동양미래EXPO (MindSpace 프로젝트) | *2025.10*
+    *   Role: Frontend Development
+
+### 📜 Certifications
+*   정보기기운용기능사 (2021)
+*   정보처리기능사 (2021)
+*   정보처리산업기사 (2021)
