@@ -12,7 +12,7 @@
 - <a href="http://www.netmania.co.kr/">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
   
 ## 👨🏻‍💻 Activity
-- MARS - KES 2025 (한국전자전) 대학생관 부스 운영</h2> | 코엑스 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
+- MARS - KES 2025 (한국전자전) 코엑스 대학생관 부스 운영</h2> | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
 
 ## 🏆 Competition 
 - MindSpace - 2025 동양미래EXPO | 2025.06 ~ 2025.10 | Frontend | 🏆 장려상 (KES 2025 한국전자전 출품작)
