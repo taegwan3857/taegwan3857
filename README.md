@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💼 Work
-- <a href="http://www.sendbill.co.kr/" target="blank">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
+- <a href="http://www.sendbill.co.kr/" target="_blank">넷매니아(주)</a> (2020. 09 ~ 2021. 12)
   
 ## 👨🏻‍💻 Activity
 - 새로고침 - AI활용 태일씨앤티 홈페이지 리뉴얼 개발 경진대회 | 2026.04.08 ~ 06.02 | 리뉴얼 홈페이지 개발
