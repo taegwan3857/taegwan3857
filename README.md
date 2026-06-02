@@ -16,7 +16,7 @@
 - MARS - KES 2025 (한국전자전) 코엑스 대학생관 부스 운영 | 2025.10.22 ~ 10.25 | MindSpace 전시 (교내 경진대회 수상작)
 
 ## 🏆 Competition 
--- AI활용 태일씨앤티 홈페이지 리뉴얼 경진대회 | 2026.06.02 | Front-End & AI | 🏆 장려상
+- AI활용 태일씨앤티 홈페이지 리뉴얼 경진대회 | 2026.06.02 | Front-End & AI | 🏆 장려상
 - MindSpace - 2025 동양미래EXPO | 2025.06 ~ 2025.10 | Front-End | 🏆 장려상 (KES 2025 한국전자전 출품작)
 
 ## ✓ Certification
